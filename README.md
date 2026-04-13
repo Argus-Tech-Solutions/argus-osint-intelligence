@@ -1,7 +1,17 @@
 # argus-osint-intelligence
-> Automated by Magnus Framework · Argus Intelligence
 
-[![Magnus](https://img.shields.io/badge/Powered%20by-Magnus%20Engine-00d4aa?style=flat-square)](https://github.com/Argus-Tech-Solutions)
+> Automated forensic OSINT reporting — 15-page PDF, zero manual effort.
 
----
-*Argus Intelligence · Intelligence as a Service*
+## What it does
+
+Receives a target (person, company, domain) and returns a structured
+15-page forensic PDF with enriched data from multiple OSINT sources.
+
+## Stack
+
+- Python · Docker · RabbitMQ · Gemini AI · Oracle Cloud
+
+## Part of
+
+[Argus Intelligence](https://github.com/Argus-Tech-Solutions) —
+Magnus-powered delivery framework for OSINT, AI, Cybersecurity and Data.
