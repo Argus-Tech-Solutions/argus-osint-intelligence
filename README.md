@@ -1,17 +1,23 @@
-# argus-osint-intelligence
+# Argus · OSINT Intelligence
+**Automated forensic OSINT on any person, company or domain — 15-page PDF in 24h**
 
-> Automated forensic OSINT reporting — 15-page PDF, zero manual effort.
+![Status](https://img.shields.io/badge/status-production--ready-00ff88?style=flat-square) ![Delivery](https://img.shields.io/badge/delivery-24h-00ff88?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-gray?style=flat-square)
 
-## What it does
+## What You Get
+- 10 open-source intelligence sources aggregated automatically
+- Domain intel: WHOIS, DNS records, subdomains, open ports via Shodan
+- Social footprint: linked accounts, public profiles, leaked data presence
+- 15-page structured PDF — executive brief + evidence annex
 
-Receives a target (person, company, domain) and returns a structured
-15-page forensic PDF with enriched data from multiple OSINT sources.
+## Sample Output
+
+    [ Argus OSINT ]  Subdomains: 47  Open ports: 22,80,443  Risk: HIGH 7.4/10  Pages: 15
 
 ## Stack
+![Python](https://img.shields.io/badge/Python-00ff88?style=flat-square) ![Shodan](https://img.shields.io/badge/Shodan-00ff88?style=flat-square) ![Async_Pipeline](https://img.shields.io/badge/Async_Pipeline-00ff88?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-00ff88?style=flat-square)
 
-- Python · Docker · RabbitMQ · Gemini AI · Oracle Cloud
+## How to Order
+Order on **[Fiverr - Argus Intelligence](https://www.fiverr.com/)** · From **$75** · 24h delivery
 
-## Part of
-
-[Argus Intelligence](https://github.com/Argus-Tech-Solutions) —
-Magnus-powered delivery framework for OSINT, AI, Cybersecurity and Data.
+## License
+MIT © [Argus Intelligence](https://github.com/Argus-Tech-Solutions) · [marcosantcs](https://github.com/marcosantcs)
